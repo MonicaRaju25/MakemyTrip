@@ -1,0 +1,2 @@
+Scenario:Verify the train ticket bookings login when we click button
+Scenario:Verify that the alert message popup when they give invalid username for login
