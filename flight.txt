@@ -3,3 +3,6 @@ Scenario:Verify that the alert message popup when they give invalid username for
 //by monica
 Scenario 5:Book ticket to madurai
 Scenario 6:Book ticket to Maldives
+//by me
+scenario 7:book ticket to chennai
+scenario 8:book ticket to goa
