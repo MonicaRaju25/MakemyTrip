@@ -1,5 +1,5 @@
 Scenario:Verify the train ticket bookings login when we click button
 Scenario:Verify that the alert message popup when they give invalid username for login
-
-Scenario:Verify the password as negative test case
-Scenario:Verify the Seats checking button access is on
+//by monica
+Scenario 5:Book ticket to madurai
+Scenario 6:Book ticket to Maldives
